@@ -13,6 +13,6 @@
   "license": "MIT",
   "dependencies": {
     "ejs": "git+https://github.com/nemanjan00/ejs.git",
-    "uglify-js": "^3.5.1"
+    "uglify-js": "~1.3.4"
   }
 }
