@@ -6,11 +6,13 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "keywords": ["ejs"],
+  "keywords": [
+    "ejs"
+  ],
   "author": "Caio Gondim",
   "license": "MIT",
   "dependencies": {
-    "ejs": "^2.6.1",
+    "ejs": "git+https://github.com/nemanjan00/ejs.git",
     "uglify-js": "^3.5.1"
   }
 }
