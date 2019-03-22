@@ -1,6 +1,6 @@
 {
   "name": "ejs-compiled-loader-without-with",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Like ejs-compiled-loader, but without the with keyword",
   "main": "index.js",
   "scripts": {
