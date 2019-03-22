@@ -1,0 +1,16 @@
+{
+  "name": "ejs-compiled-loader-without-with",
+  "version": "1.0.0",
+  "description": "Like ejs-compiled-loader, but without the with keyword",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": ["ejs"],
+  "author": "Caio Gondim",
+  "license": "MIT",
+  "dependencies": {
+    "ejs": "^2.6.1",
+    "uglify-js": "^3.5.1"
+  }
+}
